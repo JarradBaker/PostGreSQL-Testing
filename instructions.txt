@@ -1,0 +1,6 @@
+command to initiate:
+set_pg
+
+start PostgreSQL:
+psql
+
