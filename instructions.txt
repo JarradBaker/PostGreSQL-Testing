@@ -4,3 +4,5 @@ set_pg
 start PostgreSQL:
 psql
 
+initiate a file into the current DB:
+\i {filename.sql}
