@@ -6,3 +6,10 @@ psql
 
 initiate a file into the current DB:
 \i {filename.sql}
+
+
+After installing something new: 
+pip3 freeze --local > requirements.txt
+
+After starting GitPod:
+pip install -r requirements.txt
